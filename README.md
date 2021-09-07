@@ -6,9 +6,13 @@ With this project, I wanted to take a closer look at the process that can be use
 Here I was able to apply many principles from the area of Redux among others. The flexibility of the separation between the front and backend was immediately noticeable.
 
 #Basic Hosting Info 
+
+
 The frontend is hosted on Netlify, while the backend is hosted on Heroku. The database was managed via MongoDB, as you can see in the stack.
 
 #Links
+
+
 www.netlify.com
 www.heroku.com
 www.mongodb.com
