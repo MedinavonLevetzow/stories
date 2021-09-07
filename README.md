@@ -1,4 +1,6 @@
 #Why
+
+
 With this project, I wanted to take a closer look at the process that can be used to design a full-stack MERN application.
 
 Here I was able to apply many principles from the area of Redux among others. The flexibility of the separation between the front and backend was immediately noticeable.
