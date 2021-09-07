@@ -14,8 +14,11 @@ The frontend is hosted on Netlify, while the backend is hosted on Heroku. The da
 
 
 www.netlify.com
+
 www.heroku.com
+
 www.mongodb.com
+
 
 To try the app live the following link is shared:
 
